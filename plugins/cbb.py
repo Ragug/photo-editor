@@ -114,6 +114,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         "Telegram stickers", url="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTc2ODU0NzI4Mzk4MjY5?story_media_id=2623219158225116484_45667768285&utm_medium=share_sheet"
                     )
                 ],
+                [
+                    InlineKeyboardButton(
+                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?r=nametag"   
+                     )
+                 ], 
             ]
         )
 
@@ -134,6 +139,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         "Telegram stickers", url="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTc2ODU0NzI4Mzk4MjY5?story_media_id=2623219158225116484_45667768285&utm_medium=share_sheet"
                     )
                 ],
+                [
+                    InlineKeyboardButton(
+                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?r=nametag"   
+                     )
+                 ], 
             ]
         )
         await query.message.edit_text(
@@ -151,6 +161,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         "Telegram stickers", url="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTc2ODU0NzI4Mzk4MjY5?story_media_id=2623219158225116484_45667768285&utm_medium=share_sheet"
                     )
                 ],
+                [
+                    InlineKeyboardButton(
+                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?r=nametag"   
+                     )
+                 ], 
             ]
         )
         await query.message.edit_text(
