@@ -13,6 +13,8 @@ For more click help....</b>"""
 
 <code>🌀 Your Edited Image will be Uploaded </code>
 
+<code>🌀 you can get telegram sticker package on my Instagram story highlights check there </code>
+
 
 © Made by RAGU G"""
     ABOUT_MSG = """⭕️<b>My Name : RAGU</b>
