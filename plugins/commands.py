@@ -22,6 +22,12 @@ async def start(client: Client, message: Message):
                             url="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTc2ODU0NzI4Mzk4MjY5?story_media_id=2623219158225116484_45667768285&utm_medium=share_sheet",
                         )
                     ],
+                    [
+                        InlineKeyboardButton(
+                            "Report Bugs 😊",
+                            url="https://www.instagram.com/ragug19?r=nametag",
+                        )
+                    ],
                 ]
             ),
             reply_to_message_id=message.message_id,
@@ -48,6 +54,12 @@ async def help(client, message):
                             url="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTc2ODU0NzI4Mzk4MjY5?story_media_id=2623219158225116484_45667768285&utm_medium=share_sheet",
                         )
                     ],
+                    [
+                        InlineKeyboardButton(
+                            "Report Bugs 😊",
+                            url="https://www.instagram.com/ragug19?r=nametag",
+                        )
+                    ],
                 ]
             ),
             reply_to_message_id=message.message_id,
@@ -72,6 +84,12 @@ async def about(client, message):
                         InlineKeyboardButton(
                             "Telegram stickers",
                             url="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTc2ODU0NzI4Mzk4MjY5?story_media_id=2623219158225116484_45667768285&utm_medium=share_sheet",
+                        )
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            "Report Bugs 😊",
+                            url="https://www.instagram.com/ragug19?r=nametag",
                         )
                     ],
                 ]
