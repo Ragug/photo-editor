@@ -21,4 +21,6 @@ For more click help....</b>"""
 
 ⭕️<b>INSTAGRAM I'd : ragug19</b>
 
-⭕️<b>Instagram link 🔗 :</b> 👉 <a href='https://www.instagram.com/ragug19?r=nametag'>Click Here</a>"""
+⭕️<b>INSTAGRAM link 🔗:</b> 👉 <a href='https://www.instagram.com/ragug19?r=nametag'>Click Here</a>"""
+
+⭕️<b>Report Bugs 😊  :</b> 👉 <a href='https://www.instagram.com/ragug19?r=nametag'>Click Here</a>"""
