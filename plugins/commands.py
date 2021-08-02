@@ -25,7 +25,7 @@ async def start(client: Client, message: Message):
                     [
                         InlineKeyboardButton(
                             "Report Bugs 😊",
-                            url="https://www.instagram.com/ragug19?r=nametag",
+                            url="https://www.instagram.com/ragug19?",
                         )
                     ],
                 ]
@@ -57,7 +57,7 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "Report Bugs 😊",
-                            url="https://www.instagram.com/ragug19?r=nametag",
+                            url="https://www.instagram.com/ragug19?",
                         )
                     ],
                 ]
@@ -89,7 +89,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "Report Bugs 😊",
-                            url="https://www.instagram.com/ragug19?r=nametag",
+                            url="https://www.instagram.com/ragug19?",
                         )
                     ],
                 ]
