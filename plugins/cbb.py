@@ -116,7 +116,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?r=nametag"   
+                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?"   
                      )
                  ], 
             ]
@@ -141,7 +141,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?r=nametag"   
+                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?"   
                      )
                  ], 
             ]
@@ -163,7 +163,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?r=nametag"   
+                        "Report Bugs 😊", url="https://www.instagram.com/ragug19?"   
                      )
                  ], 
             ]
